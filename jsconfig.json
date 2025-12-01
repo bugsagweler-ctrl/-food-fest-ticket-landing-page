@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["-food-fest-ticket-landing-page/src/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
