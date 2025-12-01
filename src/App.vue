@@ -1,6 +1,6 @@
 <script setup>
-import TicketList from './components/TicketList.vue'
-import Header from './components/Header.vue'
+import TicketsList from './components/TicketsList.vue';
+import HeaderSection from './components/HeaderSection.vue';
 </script>
 
 <template>
@@ -13,7 +13,7 @@ import Header from './components/Header.vue'
   </header>
 
   <main>
-    <TheWelcome />
+    <TheWelcome/>
   </main>
 </template>
 
